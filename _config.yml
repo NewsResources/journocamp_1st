@@ -1,0 +1,11 @@
+author: Herring Cove
+markdown: redcarpet
+pygments: true
+baseurl: /journocamp_1st
+github: http://www.github.com/arnp
+twitter: http://www.twitter.com/newsresources
+facebook: http://www.facebook.com/newsresources
+email: journocamp@gmail.com
+
+##Make sure to edit the above fields, especially for disqus.
+
