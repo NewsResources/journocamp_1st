@@ -1,11 +1,10 @@
 ---
-title: Les décodeurs @lemonde
+title: Questions Réponses autour de Google +
 layout: post
-date: 2014-05-01 18:55:16
+date: 2014-05-01 18:50:16
 categories: jekyll testing
 ---
 
-![screenshot]({{ site.baseurl }}/images/samuel_laurent_les_decodeurs.jpg)
 
 #### Initiateur : [Samuel Laurent](https://twitter.com/samuellaurent)
 #### Rapporteur : [Cyrille Frank](http://www.mediaculture.fr)
