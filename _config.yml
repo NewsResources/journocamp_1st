@@ -1,4 +1,4 @@
-author: Herring Cove
+author: journocamp
 markdown: redcarpet
 pygments: true
 baseurl: /journocamp_1st
@@ -7,7 +7,7 @@ twitter: http://www.twitter.com/newsresources
 facebook: http://www.facebook.com/newsresources
 linkedin: https://plus.google.com/u/0/communities/116980293240150398389
 email: journocamp@gmail.com
-disqus: cedricmotte
+disqus: journocampgithub
 
 ##Make sure to edit the above fields, especially for disqus.
 
