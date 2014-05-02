@@ -1,41 +1,15 @@
-Herring Cove
+Journocamp
 ============
 
-Herring Cove is a clean and responsive theme for Jekyll. 
+Le journocamp est le premier événement de la communauté des journalistes qui tatent un peu des outils modernes.
 
+Vu qu'un atelier sur GitHub animé par @tomplays a eu lieu pendant le #journocamp, il eut été dommage de ne pas en profiter pour essayer la bête. C'est désormais chose faite !
+Ce repo github a été mise en place par Cédric Motte afin de mieux comprendre le fonctionnement de GitHub, jekyll et le markdown. Suis très loin d'avoir tout compris, mais dans les grandes lignes, c'est pigé :)
 
-### Overview 
+Vous retrouverez donc les compte-rendus des ateliers du #journocamp à cette adresse : https://newsresources.github.io/journocamp_1st/
 
-* Fixed Sidebar with social links
-* Minimal design 
-* Comments by Disqus
-* Social Sharing abilities 
-* Easy to configure
-* Based on Bootstrap
-
-### Screenshots
-
-![screenshot](/images/screenshot1.png)
-![screenshot](/images/screenshot2.png)
-
-### Setup
-
-1. Install Jekyll
-2. Fork or [download](https://github.com/arnp/herring-cove/archive/master.zip) this theme repo
-3. Edit the `_config.yml` file
-
-You can change the showcase image by replacing `showcase.jpg` file in the `images` folder. I'll try to find a better way to do this soon. 
-
-### Download
-
-[download](https://github.com/arnp/herring-cove/archive/master.zip)
 
 ### License
-* [MIT](http://opensource.org/licenses/MIT)
+* [GPL 2](http://opensource.org/licenses/GPL-3.0)
 
 -------------
-Herring Cove is always a work in progress and as such, I hope to clean up the code and add features as time permits. Feel free to add your own additions. 
-
-*What's with the name?*
-
-[Herring Cove](http://www.capecodbeachchair.com/beachguide/index.cfm?page=3&BeachID=5) is a beach on Cape Cod in Provincetown, Massachusetts. If you're in the area, be sure to check it out!
