@@ -1,7 +1,7 @@
 Journocamp
 ============
 
-Le journocamp est le premier événement de la communauté des journalistes qui tatent un peu des outils modernes.
+Le journocamp est le premier événement de [la communauté des journalistes qui tatent un peu des outils modernes](https://plus.google.com/u/0/communities/116980293240150398389).
 
 Vu qu'un atelier sur GitHub animé par @tomplays a eu lieu pendant le #journocamp, il eut été dommage de ne pas en profiter pour essayer la bête. C'est désormais chose faite !
 Ce repo github a été mise en place par Cédric Motte afin de mieux comprendre le fonctionnement de GitHub, jekyll et le markdown. Suis très loin d'avoir tout compris, mais dans les grandes lignes, c'est pigé :)

@@ -12,6 +12,10 @@
     <!--[if lt IE 9]>
       <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
       <![endif] d-->
+      <script type="text/javascript">var switchTo5x=true;</script>
+<script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script>
+<script type="text/javascript">stLight.options({publisher: "4f1bed87-e34d-42e2-821f-5501950e089c", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>
+
     </head>
     <body>
 <div class="nav-toggle"><i class="fa fa-bars fa-2x"></i> journocamp </div>
@@ -52,10 +56,10 @@
           <li><a href="{{ site.baseurl }}/soutiens_journocamp.html">Ils soutiennent #journocamp</a></li>
           <li><a href="{{ site.baseurl }}/about.html">Contactez-nous</a></li>
                     <hr />
-                    <li><h5>Les ateliers</h5></li>
+                    <li><h5>Les compte-rendus / ateliers</h5></li>
             <li>
     {% for post in site.posts %}
-    <li><span><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></span></li>
+    <li><span><a href="{{ site.baseurl }}{{ post.url }}">. {{ post.title }}</a></span></li>
     {% endfor %}
   </li>
           <hr />
