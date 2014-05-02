@@ -5,10 +5,11 @@ date: 2014-05-01 18:55:16
 categories: jekyll testing
 ---
 
-![screenshot]({{ site.baseurl }}/images/samuel_laurent_les_decodeurs.jpg)
+![Samuel Laurent du Monde présente les Décodeurs au #journocamp]({{ site.baseurl }}/images/samuel_laurent_les_decodeurs.jpg)
 
 #### Initiateur : [Samuel Laurent](https://twitter.com/samuellaurent)
 #### Rapporteur : [Cyrille Frank](http://www.mediaculture.fr)
+##### Editeur : [Cédric Motte](https:twitter.com/chouing)
 
 Samuel Laurent nous explique l’origine du projet [des décodeurs](http://www.lemonde.fr/decodeurs), qui outre une rubrique du site est surtout une équipe dédiée qui - merci à elle - presque venue au complet au #journocamp.
 

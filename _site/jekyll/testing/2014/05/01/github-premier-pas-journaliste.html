@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
   <meta charset="utf-8">
-  <title>Q&A autour de Google+</title>
+  <title>Premier pas sur GitHub</title>
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta name="description" content="">
   <link href="/css/bootstrap.min.css" rel="stylesheet">
@@ -92,59 +92,95 @@
 
 
   <div id="article">
-   <div class="article-title">Q&A autour de Google+</div>
+   <div class="article-title">Premier pas sur GitHub</div>
    <p class="meta"><small>&nbsp;<i class="fa fa-calendar-o"></i> 01 May 2014</small></p> <hr/>
    <div class="post">
-     <h4>Initiateur : <a href="https://plus.google.com/u/0/110851518579967457822/about">Anne Cissé</a> - Google+</h4>
+     <h4>Initiateur / Animateur : <a href="https://github.com/tomplays">Tom Wersinger</a></h4>
 
-<h4>Rapporteur : <a href="https://twitter.com/StevenJambot">Steven Jambot</a> - indépendant / France 24</h4>
+<h4>Rapporteur : <a href="http://florentmaurin.com/">Florent Maurin</a></h4>
 
 <h5>Editeur : <a href="https:twitter.com/chouing">Cédric Motte</a></h5>
 
-<h6>A noter : Anne propose <a href="https://docs.google.com/presentation/d/1XDDEkaYcaZzTTotQrbeQqjPsm6TIt_1tdkngrYOXSsc/pub?start=false&amp;loop=false&amp;delayms=3000#slide=id.p">une série d&#39;exemples qui illustrent l’atelier</a>.</h6>
+<p>GitHub - <a href="https://github.com/">site officiel</a> ? Git est un système qui vient de Linux, (créé pendant le processus de développement du Kernel).</p>
 
-<p><a href="https://docs.google.com/presentation/d/1XDDEkaYcaZzTTotQrbeQqjPsm6TIt_1tdkngrYOXSsc/pub?start=false&amp;loop=false&amp;delayms=3000#slide=id.p"><img src="/images/google_plus_post_ideal.png" alt="Présentation des meilleures pratiques de google+"></a></p>
+<p><strong>Principe : faire du contrôle de version sur des fichiers</strong> afin de garder un historique complet, la plupart du temps sur des fichiers textes, mais ça marche pour n’importe quel fichier, jusqu’à des objets en 3D (prévisu dans GitHub directement).</p>
 
-<p>L’atelier commence par un tour de table afin de faire le point sur les utilisations et attentes vis-à-vis de google+ </p>
+<p><img src="/images/github_tom_wersinger_journaliste_journocamp.jpg" alt="Tom Wersinger présente GitHub au #journocamp"></p>
 
-<h3>Remarques</h3>
+<p>Aujourd’hui, 10 millions de codes sont déposés sur GitHub.
+De plus, GitHub propose maintenant des features de type réseaux sociaux : on suit les gens avec qui on a bossé, etc. Mais c’est + « sérieux » que sur Twitter.
+GitHub propose même des groupes selon les centres d’intérêt.</p>
 
-<ol>
-<li><p>Dispersion entre profil et page = On ne sait pas où poster.
-Page adresse et page locale convergent maintenant. </p></li>
-<li><p>Appli bugge sur le nouvel iOs.</p></li>
-<li><p>Barrages API G+</p></li>
-<li><p>Administration des pages YouTube sur Google+</p></li>
-<li><p>Quel intérêt d’avoir une page G+ ? La Fonderie aimerait savoir.</p></li>
-<li><p>CFI s’interroge à dupliquer notre communauté pour le monde arabe. </p></li>
-<li><p>Comment promouvoir certains contenus au travers de G+ et les optimiser SEO</p></li>
-<li><p>Poster sur G+ pour augmenter la visibilité du contenu créé ?</p></li>
-<li><p>Google+ devient-il le nouveau forum ? </p></li>
-<li><p>Quels leviers utiliser pour faire venir les utilisateurs sur la page d’une marque média.</p></li>
-<li><p>Comment optimiser sa page G+ ?</p></li>
-</ol>
+<p>L’intérêt est qu’à tout moment dans le processus de développement, on peut créer des branches, qui dérivent d’une branche « officielle ».
+Par ex : sur des sites, une nouvelle version est développée sur une branche, puis remise sur le « master » une fois que la version est OK.</p>
 
-<h3>Réponses - rapides, temps limité...</h3>
+<h3>Comment ça marche ?</h3>
 
-<h4>... mais <a href="https://docs.google.com/presentation/d/1XDDEkaYcaZzTTotQrbeQqjPsm6TIt_1tdkngrYOXSsc/pub?start=false&amp;loop=false&amp;delayms=3000#slide=id.p">une série d&#39;exemples qui illustrent l’atelier</a>.</h4>
+<p>On installe Git sur un serveur, et de là, chaque utilisateur peut travailler sur son code et le synchroniser avec le serveur (par défaut, on peut utiliser le serveur de GitHub).
+Un « repo » (repository) est un morceau de code.
+Sur GitHub, on déclare un nouveau « repo », et github nous attribue une adresse correspondante.</p>
 
-<p>Pour les journalistes, se mettre en leur nom propre sur G+ pour avoir authorship : gagnant pour le média et le journaliste. </p>
+<p>Ensuite, il faut installer un client sur son ordi, et on peut travailler en local.
+Une fois qu’on veut ajouter, on tape la commande « Git add » -&gt; on ajoute à une file d’attente. Puis une fois qu’on a tous les fichiers qu’on veut, on les rassemble pour les mettre en ligne avec la commande « Git commit ».
+<strong>Dans un commit, il vaut mieux ne pas faire trop de modifications, sinon ça perd tout son intérêt : le but est de pouvoir suivre pas à pas les modifications, comme ça si ça merde, on sait où.</strong></p>
 
-<p>G+ a 7 millions de visiteurs chiffres Mediamétrie = 2e réseau social en France, derrière Facebook mais devant Twitter. Plateforme n’a que deux ans, la visibilité et l’engagement de l’audience sera moindre mais surtout différent.</p>
+<p>Troisième commande : « git push » -&gt; on envoie les données de la machine locale sur le serveur (upload).</p>
 
-<p>Contenus visuels qualitatifs passent super bien en HD sur la plateforme. Ressortira très bien et peut driver vers le contenu sur site du média.</p>
+<p>Sinon, « git pull » pour récupérer les fichiers. « Request » pour travailler en parallèle sur le code d’un inconnu.</p>
 
-<p>Intérêts par communautés et hangouts : mode, jeunes, foot 
-Consultations apparaissent. Utiliser Webmaster tool ou Allmyplus pour connaître le nombre de +1. </p>
+<p>Pour utiliser GitHub, il suffit d’installer un client. Ce qui est complexe, c’est de s’y retrouver ensuite.</p>
 
-<p>Créer, animer, modérer : facile
-Mais technique : bugs cachés + Pb de fluidité dans la com de Google. Reproche que l’on peut aussi faire à Twitter et Facebook. Compliqué pour suivre derrière. 
-Faciliter l’accès à l’API pour les marques !</p>
+<p>Une fois qu’on a modifié un fichier, on tape git status, et Git nous donne la différence entre le master sur le serveur et ma copie en local.</p>
 
-<p>Ce sont souvent les journalistes qui postent le plus.</p>
+<p>Si on modifie le code de qqn d’autre, la personne décide de l’accepter ou de le refuser.</p>
 
-<p>Hangout vrai moyen d’interagir avec l’audience. 
-Ex. de <a href="http://www.lequipe.fr/hangout/hangout-voeckler.html">L’Equipe au premier jour du Tour de France avec Voekler</a>. </p>
+<h3>Fun facts !</h3>
+
+<p>GitHub est open source, ça veut dire que le code même de GitHub est disponible sur GitHub (paie ta mise en abîme !)</p>
+
+<p>GitHub est payant si tu as du code fermé. Tant que tu travailles en open source, pas de souci, jusqu’à 1 go de code, et 100 mo en upload unique. Il existe un “clône” de GitHub, qui est gratuit pour tous les usages : <a href="https://bitbucket.org/">Bit Bucket</a></p>
+
+<p>Git est très utile pour Node.js, car tous les modules qui composent Node.js sont mis à jour.</p>
+
+<p>Selon les best practices de GitHub, quand tu crées un “repo”, tu dois mettre un readme et il vaut mieux dire sous quelle licence tu crées ton projet. Les gens sur GitHub sont bien élevés ;-)</p>
+
+<p>Sur la page de chaque “repo” est indiqué le nombre de fois où il est copié : s’il l’est beaucoup, c’est que le code est bon/intéressant.</p>
+
+<p>Il suffit de récupérer l’URL d’un projet, d’ouvrir une console et de taper « git clone + url » pour copier tous les fichiers de ce projet dans son ordi, et commencer à bosser.</p>
+
+<p>Des utilisateurs de GitHub :</p>
+
+<p>Parmi les membres de la communauté<br>
+* <a href="https://github.com/tomplays">Tom Wersinger</a>, qui est donc l&#39;initiateur de cet atelier<br>
+* <a href="https://github.com/newsresources">Newsresources, maintenu par Cédric Motte</a>, avec surtout ce site hébergé sur github,<br>
+* <a href="https://github.com/jplusplus">j++, le réseau développé par Nicolas Kayser-Bril et Pierre Romera (entre autres)</a><br>
+* <a href="https://github.com/JeanAbbiateci">Jean Abbiateci</a>  </p>
+
+<p>Et plus largement<br>
+<a href="https://github.com/guardian">le Guardian</a>,<br>
+<a href="https://github.com/nytimes">le NY Times</a>,<br>
+<a href="https://github.com/whitehouse">La maison Blanche</a><br>
+<a href="https://github.com/okfn">Open knowledge foundation</a><br>
+<a href="https://github.com/propublica">Pro Publica</a><br>
+La librairie responsive du Boston Globe<br>
+…</p>
+
+<p>Pourquoi utiliser GitHub ? Surtout si ce n’est pas pour du code ? 
+-&gt; décentralisation, ouverture de la création
+-&gt; facilité de suivre quelle est la “vraie” version d’un travail, et ses modifications...
+-&gt; documentation, propreté du code, facilité pour quelqu’un d’autre de reprendre le projet.
+-&gt; c’était antérieur aux services genre Dropbox.
+-&gt; on peut se faire son propre serveur.</p>
+
+<p>Il y a tout une communauté, et des analytics, pour repérer les mouvements intéressants sur Git, et donc les projets sur lesquels il peut être intéressant de se pencher quand on veut apprendre.</p>
+
+<p><strong>Pour aller plus loin</strong></p>
+
+<p>Système de gists : des fichiers volants avec des bouts de code, pour pouvoir poser des questions rapide et coder des réponses tout aussi rapidement.</p>
+
+<p><a href="http://prose.io/">Prose.io</a> : éditeur de fichier directement en ligne. Il met à jour directement en ligne.</p>
+
+<p><a href="jekyllrb.com/">Jekyll</a> : système de blogging, qui fait des fichiers statiques html. Du coup on peut créer un blog sans base de données, complètement statique.</p>
 
 <hr>
 
@@ -157,8 +193,10 @@ Ex. de <a href="http://www.lequipe.fr/hangout/hangout-voeckler.html">L’Equipe 
 
  <ul class="pager">
   
+  <li class="previous"><a href="/jekyll/testing/2014/05/01/enquetes-ouvertes.html">&larr; Older</a></li>
   
-  <li class="next"><a href="/jekyll/testing/2014/05/01/crowdfunding-financement-participatif-ulule.html">Newer &rarr;</a></li>
+  
+  <li class="next"><a href="/jekyll/testing/2014/05/01/investigations-gijn-association-francophone.html">Newer &rarr;</a></li>
   
 
 </ul>
