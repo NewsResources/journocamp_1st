@@ -10,6 +10,6 @@ Vous retrouverez donc les compte-rendus des ateliers du #journocamp à cette adr
 
 
 ### License
-* [GPL 2](http://opensource.org/licenses/GPL-3.0)
+* [GPL 3.0](http://opensource.org/licenses/GPL-3.0)
 
 -------------
