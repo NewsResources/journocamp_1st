@@ -1,7 +1,7 @@
 ---
 title: MOOC sur le journalisme
 layout: post
-date: 2014-05-01 18:45:16
+date: 2014-05-01 18:25:16
 categories: jekyll testing
 ---
 
