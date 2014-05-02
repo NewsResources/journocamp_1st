@@ -50,25 +50,25 @@ Référencement possible avec metadonnées...
 
 & plateforme de diffusion / valorisation de contenus... trafic...
 
-**Question:** combien de temps de prise en main pour faire un projet publiable.
-**Réponse:** Prise en main: 1 jour ou demi-journée… Si déjà quelques tests... ça va très vite.
+**Question:** combien de temps de prise en main pour faire un projet publiable.  
+**Réponse:** Prise en main: 1 jour ou demi-journée… Si déjà quelques tests... ça va très vite.  
 => Attention de ne pas trop avancer dans la conception et la production... => importance de la scénarisation... Proto papier suffit...
 
-**Question:** scénarisation: schémas types? 
+**Question:** scénarisation: schémas types?   
 **Réponse:** oui = Linéaire, arborescence, embranchement, nodal (passage obligé vous êtes le héros), constellation.
 
-**Question:** qu'est-ce que vous apportez dans la scénarisation?
+**Question:** qu'est-ce que vous apportez dans la scénarisation?  
 **Réponse:** Le bon sens, le scénario, faire preuve d'empathie... avec l'utilisateur.
 
-**Question:** Différences scrollkit / klynt / djehouti ?
+**Question:** Différences scrollkit / klynt / djehouti ?  
 **Réponse:** Avant Klynt et 3wdoc, Klynt très bonne solution mais player vidéo interactif
 
 Avec Racontr, on peut tout faire... Universalité vs spécialisation... Un outil plus flexible, pas de template imposé, pas de format a priori... Besoin de liberté, application...
 
-**Question:** Quelles sont les limites?
+**Question:** Quelles sont les limites?  
 **Réponse:** templates différents: ce qu'on crée nous, au choix, si propre outil et psd à uploader, ok. Mais pas forcément besoin de template... 
 
-Limitation: ce qui nous coûte vraiment cher: hébergement, formation et développement.
+Limitation: ce qui nous coûte vraiment cher, à savoir l'hébergement, formation et développement.
 
 ### Démonstration
 
