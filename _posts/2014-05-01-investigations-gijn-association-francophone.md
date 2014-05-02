@@ -12,7 +12,7 @@ categories: jekyll testing
 
 **Mots clés : mutualisation des ressources, des recherches, des pratiques, des données.**
 
-![Mark Lee Hunter est venu secouer les journalistes français autour de l'investigation pendant le #journocamp]({{ site.baseurl }}/images/mark_lee_hunter_journocamp_investigation.jpg)
+![Mark Lee Hunter annonce la création de JEFA]({{ site.baseurl }}/images/mark_lee_hunter_jefa.jpg)
 
 **Question de Mark à chacun : qu'aimez-vous dans l'investigation ? Les réponses :**  
 - le temps long  
