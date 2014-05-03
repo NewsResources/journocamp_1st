@@ -7,7 +7,9 @@ categories: jekyll testing
 
 #### Initiateur : [Florent Maurin](http://florentmaurin.com/)
 #### Rapporteur : [Cyrille Frank](http://www.mediaculture.fr/)
+##### Editeur : [Cédric Motte](https:twitter.com/chouing)
 
+![Florent Maurin explique les principes des newsgames au journocamp]({{ site.baseurl }}/images/newsgames_florent_maurin_journocamp.jpg)
 
 Il y a quelques mois, Trinity Mirror lançait [UsVsTh3m](http://usvsth3m.com/), un site de #lol et de #wtf, mais surtout [de petits newsgames très bien fichus](http://usvsth3m.com/post/57145265331/do-you-need-entertainment-then-heres-all-the-usvsth3m), simples, drôles, efficaces :
 Résultat : 7M de visiteurs uniques en novembre dernier.
